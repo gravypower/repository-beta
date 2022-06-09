@@ -1,9 +1,9 @@
 {
   "name": "Prometheus",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0-beta.2",
   "slug": "prometheus",
   "description": "Cloud native metrics",
-  "url": "https://github.com/hassio-addons/addon-prometheus",
+  "url": "https://github.com/gravypower/addon-prometheus",
   "startup": "services",
   "ingress": true,
   "ingress_port": 9090,
