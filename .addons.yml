@@ -100,7 +100,7 @@ addons:
   prometheus:
     repository: hassio-addons/addon-prometheus
     target: prometheus
-    image: hassioaddons/prometheus-{arch}
+    image:  gravypower/addon-prometheus:latest
   spotify:
     repository: hassio-addons/addon-spotify-connect
     target: spotify
